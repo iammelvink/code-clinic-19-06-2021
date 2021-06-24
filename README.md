@@ -23,7 +23,7 @@ Authors Galaletsang, Loyiso and Melvin Kisten tackle Programming.
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
 
    ```
-   > git clone https://github.com/iammelvink/code-clinic-19-06-2021.git
+   git clone https://github.com/iammelvink/code-clinic-19-06-2021.git
    ```
 
 3. Run Apache NetBeans and choose Open Project
